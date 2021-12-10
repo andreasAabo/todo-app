@@ -12,4 +12,3 @@ The vision for this application is to make a to-do, time-planer platform. The fo
 - JPA
 - MySQL
 - React
--
